@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SketchPad</string>
+    <string name="dialogText">Preparing…</string>
+    <string name="selImageDesc">Image from Gallery</string>
+    <string name="saveIcon">Save Icon</string>
+    <string name="undoIcon">Undo Icon</string>
+    <string name="smallBrushDesc">Small Brush</string>
+    <string name="mediumBrushDesc">Medium Brush</string>
+    <string name="largeBrushDesc">Large Brush</string>
+    <string name="ovalBrushLDesc">Large Oval Brush</string>
+    <string name="ovalBrushMDesc">Medium Oval Brush</string>
+    <string name="ovalBrushSDesc">Small Oval Brush</string>
+    <string name="brushIcon">Brush Icon</string>
+    <string name="color">color</string>
+    <string name="pick">Pick Color</string>
+    <string name="currentSelection">Current Selection:</string>
+</resources>
